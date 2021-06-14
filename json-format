@@ -1,0 +1,30 @@
+{
+            "title": "Detective Byomkesh Bakshy!",
+            "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjMyNzQ0MTAxNl5BMl5BanBnXkFtZTgwMDY2NjM4MzE@._V1_SY500_CR0,0,320,500_AL_.jpg",
+            "genre": " Action, Drama, Thriller",
+            "released": "2015",
+            "artists": [
+                {
+                    "name": "Sushant Singh Rajput",
+                    "dob": "13-06-1987",
+                    "role": "Hero"
+                },
+                {
+                    "name": "Sraddha Kapoor",
+                    "dob": "18-04-1993",
+                    "role": "Heroin"
+                },
+                {
+                    "name": "Anand Tiwari",
+                    "dob": "02-08-1982",
+                    "role": "Villain"
+                },
+                {
+                    "name": "Neeraj Kabi",
+                    "dob": "18-04-1987",
+                    "role": "director"
+                }
+            ],
+            "about": "CALCUTTA 1943 A WAR - A MYSTERY - and A DETECTIVE.",
+            "rating": "7.4"
+}
